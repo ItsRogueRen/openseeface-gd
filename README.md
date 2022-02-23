@@ -15,7 +15,7 @@ All models should work as long as they are in `.glb` or `.vrm` format. `.gltf` h
 * `python3-pip` and `python3-venv` are installed
 
 * For Ubuntu-based distros, run: `sudo apt install python python3-pip python3-venv`
-* For Arch-based distros run `pacman -S python python3-pip python3-venv`
+* For Arch-based distros run: `pacman -S python python3-pip python3-venv`
 
 ## Quickstart
 
